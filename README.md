@@ -1,4 +1,4 @@
-# Ruby on Rails ƒ`ƒ…[ƒgƒŠƒAƒ‹FƒTƒ“ƒvƒ‹ƒAƒvƒŠƒP[ƒVƒ‡ƒ“
+# Ruby on Rails ãƒãƒ¥ãƒ¼ãƒˆãƒªã‚¢ãƒ«ï¼šã‚µãƒ³ãƒ—ãƒ«ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.jp/)
